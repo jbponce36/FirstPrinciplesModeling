@@ -7,3 +7,5 @@ Instrucciones:
 - Ejecutar con _Jupyter Notebook._
 - Localizar el archivo .ipynb de la Figura a ejecutar.
 - _Run._
+
+También pueden visualizarse accediendo directamente al archivo desde GitHub en el navegador.
